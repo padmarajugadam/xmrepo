@@ -1,2 +1,2 @@
-# xmrepo
-creating repo to test
+# docker-sample-nginx
+a sample nginx container to display container name
